@@ -1,7 +1,18 @@
 '''
+Fibonacci`s numbers
 Hello to my first function
 
 It will help you to calculate needed element of Fibonacci`s numbers
+
+Example:
+    module1.fibNumb(7) - will return 13
+
+Attributes:
+   def fibNumb(int)
+        Has only one attribute - Fibonacci sequence number you want to get
+
+Todo:
+    * change funtion to not be recursive
 
 '''
 
